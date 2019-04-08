@@ -1,3 +1,14 @@
+//
+// WolfAutolayout
+//
+
+// AssignIdentifierOperator.swift
+infix operator =%=  : AttributeAssignmentPrecedence
+
+// AssignPriorityOperator.swift
+infix operator =&= : AttributeAssignmentPrecedence
+
+
 ///
 /// Redeclared from WolfCore
 ///

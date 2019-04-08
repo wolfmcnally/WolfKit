@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfKit'
-    s.version          = '1.0.0'
+    s.version          = '1.0.1'
     s.summary          = 'A library of conveniences for the construction of iOS apps.'
 
     # s.description      = <<-DESC
