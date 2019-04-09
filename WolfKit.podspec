@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'WolfKit'
-    s.version          = '1.0.1'
+    s.version          = '1.0.2'
     s.summary          = 'A library of conveniences for the construction of iOS apps.'
 
     # s.description      = <<-DESC
@@ -22,12 +22,10 @@ Pod::Spec.new do |s|
     s.module_name = 'WolfKit'
 
     s.dependency 'WolfCore'
-    s.dependency 'WolfColor'
-    s.dependency 'WolfGeometry'
+    s.dependency 'WolfGraphics'
     s.dependency 'WolfSec'
     s.dependency 'WolfPubSub'
     s.dependency 'WolfLog'
-    s.dependency 'WolfImage'
     s.dependency 'WolfAutolayout'
     s.dependency 'WolfLocale'
     s.dependency 'WolfAnimation'
