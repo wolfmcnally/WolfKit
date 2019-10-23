@@ -135,3 +135,11 @@ infix operator .. : RangeFormationPrecedence
 
 // PercentOperator.swift
 postfix operator %
+
+//
+// WolfLocale
+//
+
+// LocalizationOperator.swift
+postfix operator ¶
+infix operator ¶ : AttributeAssignmentPrecedence
