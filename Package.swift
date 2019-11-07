@@ -24,8 +24,8 @@ let package = Package(
         .package(url: "https://github.com/wolfmcnally/WolfAnimation", from: "3.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfValidation", from: "3.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfCache", from: "3.0.0"),
-        .package(url: "https://github.com/wolfmcnally/WolfViews", from: "4.0.0"),
-        .package(url: "https://github.com/wolfmcnally/WolfViewControllers", from: "4.0.0"),
+        .package(url: "https://github.com/wolfmcnally/WolfViews", from: "5.0.0"),
+        .package(url: "https://github.com/wolfmcnally/WolfViewControllers", from: "5.0.0"),
     ],
     targets: [
         .target(
