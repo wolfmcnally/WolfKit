@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/wolfmcnally/WolfPubSub", from: "2.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfSec", from: "3.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfNIO", from: "1.0.0"),
-        .package(url: "https://github.com/wolfmcnally/WolfNetwork", from: "4.0.0"),
+        .package(url: "https://github.com/wolfmcnally/WolfNetwork", from: "5.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfAutolayout", from: "2.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfAnimation", from: "3.0.0"),
         .package(url: "https://github.com/wolfmcnally/WolfValidation", from: "3.0.0"),
